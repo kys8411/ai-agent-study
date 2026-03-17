@@ -1,2 +1,1 @@
-print("Hello from FEATURE")
-print("Hello from MAIN again")
+print("hello from MAIN2")
