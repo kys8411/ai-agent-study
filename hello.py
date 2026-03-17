@@ -1,3 +1,6 @@
+print("hello from MAIN")
+
+
 print("Hello AI Agent!")
 print("오늘부터 Git을 배웁니다!")
 print("잼있다!!!!.")
